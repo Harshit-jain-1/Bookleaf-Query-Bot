@@ -1,3 +1,8 @@
 streamlit
 openai
-sqlite3
+pandas
+rapidfuzz
+langchain
+langchain-openai
+faiss-cpu
+supabase
